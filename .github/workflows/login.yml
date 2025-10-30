@@ -1,5 +1,5 @@
  
-name: CI via Workflow Reutilizável
+name: CI via Workflow Reutilizável.
 
 on:
   push:
